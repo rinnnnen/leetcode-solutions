@@ -1,2 +1,8 @@
 # leetcode-solutions
-Here r the solutions to the problems from Leetcode. idk
+Also my journey through Python problem's. Idk
+
+## stats:
+- easy: 1
+
+## goals:
+- 100 solved problems before september
