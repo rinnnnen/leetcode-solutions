@@ -6,5 +6,4 @@ Also my journey through Python problem's. Idk
 
 ## goals:
 - 100 solved problems before september
-- take a course "Introduction to Pandas" b4 August
-- take a course "30 days of Pandas" b4 September
+- take a course "Introduction to Pandas" b4 September
